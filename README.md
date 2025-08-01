@@ -2,6 +2,10 @@
 
 A modern, responsive portfolio website for MixItUp - a creative digital solutions company. This website showcases services, portfolio work, and provides contact information in a professional and engaging design.
 
+## Demo
+
+https://catilli.github.io/MixItUp/
+
 ## Features
 
 ### 🎨 Design & User Experience
